@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/JPFD87/qualtrics-casper/issues"
   },
-  "homepage": "https://github.com/JPFD87/qualtrics-casper#readme"
+  "homepage": "https://github.com/JPFD87/qualtrics-casper#readme",
+  "dependencies": {
+    "casperjs": "^1.1.4"
+  }
 }
