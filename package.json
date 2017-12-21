@@ -1,0 +1,20 @@
+{
+  "name": "qualtrics-casper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "qualtrics-casper": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JPFD87/qualtrics-casper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JPFD87/qualtrics-casper/issues"
+  },
+  "homepage": "https://github.com/JPFD87/qualtrics-casper#readme"
+}
