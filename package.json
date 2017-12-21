@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "qualtrics-casper": "node index.js"
+    "qualtrics-casper": "casperjs index.js"
   },
   "repository": {
     "type": "git",
@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/JPFD87/qualtrics-casper#readme",
   "dependencies": {
-    "casperjs": "^1.1.4"
+    "casperjs": "^1.1.4",
+    "phantomjs": "^2.1.7"
   }
 }
